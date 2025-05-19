@@ -11,6 +11,6 @@ Welcome to my projects! Below are some of the projects I've worked on during my 
 ## 🔹 Object-Oriented Programming Project
 - **Description**: A basic OOP implementation in Java for a game management system.
 - **Tech Stack**: Java, OOP principles
-- **GitHub Repo**: [View Repository](https://github.com/yourusername/oop-project)
+- **GitHub Repo**: [View Repository](https://github.com/avichayiny/OOP_JAVA_arknoid_game.git)
 
 ---
