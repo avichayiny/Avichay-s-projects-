@@ -4,7 +4,7 @@ Welcome to my projects! Below are some of the projects I've worked on during my 
 ## 🔹 Fullstack Video Platform
 - **Description**: A YouTube-like application with React frontend, Node.js backend, and MongoDB.
 - **Tech Stack**: React, Node.js, MongoDB, JWT
-- **GitHub Repo**: [View Repository](https://github.com/yourusername/fullstack-video)
+- **GitHub Repo**: [View Repository](https://github.com/avichayiny/YouTube-Project.git)
 
 ---
 
