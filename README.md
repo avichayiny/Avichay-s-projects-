@@ -14,3 +14,10 @@ Welcome to my projects! Below are some of the projects I've worked on during my 
 - **GitHub Repo**: [View Repository](https://github.com/avichayiny/OOP_JAVA_arknoid_game.git)
 
 ---
+
+## 🔹 Machine Learning Models Project
+- **Description**: Implemented and trained ML models from scratch for prediction and clustering tasks.
+- **Tech Stack**: Python, NumPy, Pandas, Matplotlib,  PyTorch, sklearn
+- **GitHub Repo**: [View Repository](https://github.com/avichayiny/Machine-Learning-Models.git)
+
+---
