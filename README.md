@@ -24,7 +24,7 @@ Welcome to my projects! Below are some of the projects I've worked on during my 
 
 ## 🔹 WhatsApp Bot for Google Calendar Management
 - **Description**: Developed and deployed an end-to-end chatbot that integrates WhatsApp with Google Calendar, allowing users to manage their schedule using natural language text messages.
-- **Tech Stack**: Python, Flask, Gunicorn, Google Cloud (Cloud Run, Cloud Build, Cloud SQL), PostgreSQL, Docker, Meta API, Google Calendar API, GitHub.
+- **Tech Stack**: Python, Flask, Gunicorn, Google Cloud (Cloud Run, Cloud Build, Cloud SQL), PostgreSQL, Docker, Meta API, Google Calendar API, GitHub, LLM API.
 - **GitHub Repo**: [View Repository](https://github.com/avichayiny/Calendar-Bot.git)
 
 ---
